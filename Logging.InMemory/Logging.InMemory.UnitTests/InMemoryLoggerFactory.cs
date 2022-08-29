@@ -1,6 +1,4 @@
-﻿using Xunit;
-
-namespace Logging.InMemory;
+﻿namespace Logging.InMemory;
 
 public class InMemoryLoggerFactoryTests
 {
